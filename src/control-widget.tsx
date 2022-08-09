@@ -70,7 +70,7 @@ const Controls = (props: any) => {
 
       <div className="source-link">
         <a
-          href="https://github.com/splitgraph/fe-devexp"
+          href="https://github.com/splitgraph/nyctaxis"
           target="_new"
         >
           Code ↗
